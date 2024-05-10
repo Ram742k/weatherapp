@@ -1,0 +1,68 @@
+h1{
+    font-size: 3.5rem;
+    color: #ffffff;
+    /* font-weight: 600; */
+    text-shadow: 2px 2px 4px #000000;
+    font-family: "Poppins", sans-serif;
+    
+}
+
+.btn-primary {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0 123 255 / 31%);
+    border-color: rgb(0 123 255 / 50%);
+    width: 100%;
+    border-radius: 10px;
+}
+.btn-primary:hover {
+    color: rgb(63, 62, 62);
+    background-color: antiquewhite;
+    border-color: antiquewhite;
+}
+
+#cardsRow > .card-header,.card-body {
+    background-color: rgb(40 104 140 / 52%);
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 0px 0px 20px 20px;
+}
+
+ .card-header {
+    border-bottom: 0;
+    border-radius: 20px 20px 0px 0px !important;
+    background-image: url('https://res.cloudinary.com/dxfq3iotg/image/upload/v1557323760/weather.svg');
+    background-size: cover;
+    background-position: center;
+    color: rgb(165 102 102);
+    padding: 20px;
+    font-size: 1.7rem;
+    font-weight: 500;
+    background-color: antiquewhite;
+    height: 100px;
+}
+
+
+#cardsRow > .card-footer {
+    border-top: 0;
+}
+
+#cardsRow > .card-header > .card-title {
+    color: #ffffff;
+}
+
+#cardsRow > .card-header > .card-tools {
+    float: right;
+}
+#cardsRow>.col-lg-4{
+ margin-top: 10px;
+ 
+}
+#video-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+  }
+  
