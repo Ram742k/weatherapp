@@ -19,7 +19,10 @@ h1{
     background-color: antiquewhite;
     border-color: antiquewhite;
 }
-
+.card{
+    border-radius: 20px !important;
+    background-color: rgb(40 104 140 / 52%);
+}
 #cardsRow > .card-header,.card-body {
     background-color: rgb(40 104 140 / 52%);
     color: #ffffff;
