@@ -31,7 +31,7 @@ The `script.js` file contains the JavaScript code responsible for fetching data 
 
 Bootstrap cards are used to display the necessary data retrieved from the APIs. Each card represents a country and includes details such as capital, region, country code, flag, and current weather information.
 
-## ▶️ Usage
+
 
 
 ## 💻 Technologies Used
