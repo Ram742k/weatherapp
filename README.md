@@ -33,10 +33,6 @@ Bootstrap cards are used to display the necessary data retrieved from the APIs. 
 
 ## ▶️ Usage
 
-To run the project:
-
-1. Clone this repository to your local machine.
-2. Open the `index.html` file in a web browser.
 
 ## 💻 Technologies Used
 
